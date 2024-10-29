@@ -4,14 +4,14 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
-                    <li>
+                    <!-- <li>
                         <a href="{{ "/feed.xml" | prepend: site.baseurl }}">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
                             </span>
                         </a>
-                    </li>
+                    </li> -->
                     {% if site.twitter_username %}
                     <li>
                         <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -32,9 +32,20 @@
                         </a>
                     </li>
                     {% endif %}
+                    <li>
+                        <a href="https://scholar.google.com/citations?user=-sNgzuwAAAAJ&hl=en">
+                                <img src="{{ site.baseurl }}/img/scholar.png" width="40" />
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://www.youtube.com/@noelc-s">
+                            <img src="{{ site.baseurl }}/img/youtube.png" width="40" />
+                        </a>
+                    </li>
+                    <li>
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }}/{{ site.project_repository}}">
+                        <a href="https://github.com/noelc-s">
                             <span class="fa-stack fa-lg">
                                 <i class="fa fa-circle fa-stack-2x"></i>
                                 <i class="fa fa-github fa-stack-1x fa-inverse"></i>
@@ -42,7 +53,15 @@
                         </a>
                     </li>
                     {% endif %}
-										<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fnoelc-s.github.io%2Fwebsite%2F" alt="Hits">
+                    
+                        <a href="https://www.linkedin.com/in/noelcs/">
+                            <span class="fa-stack fa-lg">
+                                <i class="fa fa-circle fa-stack-2x"></i>
+                                <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                            </span>
+                        </a>
+                    </li>
+										<!-- <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fnoelc-s.github.io%2Fwebsite%2F" alt="Hits"> -->
 					{% if site.github_username == "projectpages" %}
                     <li>
                         <a href="https://github.com/projectpages/project-pages/issues">
