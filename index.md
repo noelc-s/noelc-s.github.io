@@ -25,7 +25,7 @@ description: Robotic Control and Outdoor Enthusiast
 PhD Student in 
 <a href="http://www.cms.caltech.edu/academics/grad_cds">Control and Dynamical Systems</a> at Caltech
 
-At the moment, I'm very excited about the underlying structure of optimal control, and how it can be used to synthesize agile behaviors for legged systems. I am also interested in the theory of hierarchical control, and the use of control architechtures as a means of improving the efficiencly, feasiibility, and generalizability of autonomy stacks. Please feel free to reach me over email (noelcs [at] caltech [dot] edu) if these are similarly of interest to you.
+At the moment, I'm very excited about the underlying structure of optimal control, and how it can be used to synthesize agile behaviors for legged systems. I am also interested in the theory of hierarchical control, and the use of control architectures as a means of improving the efficiency, feasibility, and generalizability of autonomy stacks. Please feel free to reach me over email (noelcs [at] caltech [dot] edu) if these are similarly of interest to you.
 
 <a href="{{ site.baseurl }}/research/2024/10/21/ResearchOverview/">Research Overview</a> 
 
