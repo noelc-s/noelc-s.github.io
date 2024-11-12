@@ -1,6 +1,6 @@
 ---
 layout: page
-description: Robotic Control and Outdoor Enthusiast
+description: Robot Control Researcher and Outdoor Sports Enthusiast
 ---
 
 <head>
@@ -22,12 +22,9 @@ description: Robotic Control and Outdoor Enthusiast
 </style>
 </head>
 
-PhD Student in 
-<a href="http://www.cms.caltech.edu/academics/grad_cds">Control and Dynamical Systems</a> at Caltech
+Hi, I'm Noel Csomay-Shanklin. I'm currently finishing my PhD in Control and Dynamical Systems at Caltech and am <b>on the job market</b>. I’m excited to join a team and help develop the next generation of agile robotic systems. My research is centered around <b>hierarchical</b> and <b>optimization-based control</b> strategies that enable dynamic behaviors for <b>legged robots</b>.
 
-At the moment, I'm very excited about the underlying structure of optimal control, and how it can be used to synthesize agile behaviors for legged systems. I am also interested in the theory of hierarchical control, and the use of control architectures as a means of improving the efficiency, feasibility, and generalizability of autonomy stacks. Please feel free to reach me over email (noelcs [at] caltech [dot] edu) if these are similarly of interest to you.
-
-<a href="{{ site.baseurl }}/research/2024/10/21/ResearchOverview/">Research Overview</a> 
+Known among my peers for getting things to work on hardware, I pride myself in leveraging my hands-on expertise to bring theory into practice. For more information about my research, check out this <a href="{{ site.baseurl }}/research/2024/10/21/ResearchOverview/">Research Overview</a>, or see my <a href="{{ site.baseurl }}/img/Noel_Csomay-Shanklin_CV.pdf">Curriculum Vitae</a>. Please feel free to reach out at noelcs [at] caltech [dot] edu to discuss my research or potential work opportunities.
 
 <div class="image">
  <iframe width="420" height="236"
@@ -46,7 +43,7 @@ src="https://www.youtube.com/embed/TrScjfhp3G4?si=o-SL25R5DOx3qrtF" title="YouTu
 <iframe width="420" height="236" src="https://www.youtube.com/embed/56L-xtvJVuo?si=7Tm1Ob6XeJj91n8y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-<a href="{{ site.baseurl }}/img/Noel_Csomay-Shanklin_CV.pdf">Curriculum Vitae</a> 
+
 
 
 
